@@ -1,5 +1,12 @@
 [
     {
+        "id": "neptunepvp",
+        "name": "NeptunePvP Network",
+        "addresses": [
+            "neptunepvp.us"
+        ]
+    },
+    {
         "id": "prismamc",
         "name": "PrismaMC Network",
         "addresses": [
